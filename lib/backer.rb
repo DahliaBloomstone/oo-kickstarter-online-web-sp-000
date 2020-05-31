@@ -6,7 +6,8 @@ def initialize(name) #takes a name on initialization, accessible through an attr
   @name = name
   @backed_projects = []
 
-def add_backer 
+def add_backer
+  
 
 
 end
