@@ -7,9 +7,8 @@ def initialize(title)
   @title = title
   @backers = []
 
-def add_project
-
 def add_backer
+  
 
 end
 end
