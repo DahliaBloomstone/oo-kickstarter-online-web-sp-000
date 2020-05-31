@@ -8,7 +8,7 @@ def initialize(title)
   @backers = []
 end
 
-def add_backer(backer)
+def add_backer(backer) # accepts a Backer as an argument and stores it in a backers array
   @backers << backer
   backer.backed_projects << self
 
