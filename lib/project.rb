@@ -9,5 +9,7 @@ def initialize(title)
 
 def add_project
 
+def add_backer
+
 end
 end
