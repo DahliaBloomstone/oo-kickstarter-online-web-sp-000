@@ -8,6 +8,7 @@ def initialize(name) #takes a name on initialization, accessible through an attr
 end
 
 def add_backer(argument)
+end 
 
 def back_project(project)
   @backed_projects << project
