@@ -8,10 +8,6 @@ def initialize(title)
   @backers = []
 end
 
-def add_backer(argument)
-end 
-
-
 def add_backer
   @backers << backer
   backer.backed_projects << self
