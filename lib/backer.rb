@@ -8,7 +8,9 @@ def initialize(name) #takes a name on initialization, accessible through an attr
 
 def add_backer
 
-def back_project 
+
+def back_project(project)
+
 
 end
 end
